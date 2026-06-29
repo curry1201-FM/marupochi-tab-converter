@@ -167,7 +167,8 @@ def generate_pdf_score(tab_text, pdf_filename="tab_score.pdf"):
             draw_mini_diagram(current_draw, x, y, fret_start, dots, mutes)
             x += diagram_width
 
+    # 4. すべてのページを1つのPDFにまとめて保存
     if pages:
-        pages[0].save(pdf_filename, save_all=True, append_images=pages[1:])
+        pages[0].save(pdf_filename, format="PDF", save_all=True, append_images=pages[1:])
         return pages, pdf_filename
     return None, None
