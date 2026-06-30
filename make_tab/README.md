@@ -18,7 +18,7 @@
 <img width="244" height="117" alt="スクリーンショット 2026-06-30 145058" src="https://github.com/user-attachments/assets/7f8be456-0c8f-4c67-8cc5-8f6cac24d8d6" />
 <img width="745" height="395" alt="スクリーンショット 2026-06-30 145111" src="https://github.com/user-attachments/assets/b8e748f0-155e-42c2-92fa-1c3072614d1a" />
 
-####### 💡 使い方
+####### 💡 使い方　######
 
 1. アプリのURLにアクセスします。
 2. 画面上のテキストエリアに、ネット上のテキストTAB譜（6行の形式）をペーストします。
