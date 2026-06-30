@@ -14,6 +14,8 @@
   音符間のハイフン（`-`）の長さを空白マージンとして再現し、曲の構成やリズム感が掴みやすくなっています。
 - **A4サイズのPDFエクスポート機能**
   生成された楽譜は自動でA4サイズにレイアウトされ、ワンクリックで印刷・保存可能なPDFとしてダウンロードできます。
+<img width="745" height="395" alt="スクリーンショット 2026-06-30 145111" src="https://github.com/user-attachments/assets/b8e748f0-155e-42c2-92fa-1c3072614d1a" />
+<img width="244" height="117" alt="スクリーンショット 2026-06-30 145058" src="https://github.com/user-attachments/assets/7f8be456-0c8f-4c67-8cc5-8f6cac24d8d6" />
 
 ## 💡 使い方
 
